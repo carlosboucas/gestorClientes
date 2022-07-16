@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bce8db5f-6b40-473c-969c-92f63e4ab0e4": {
+      "ProjectGuid": "bce8db5f-6b40-473c-969c-92f63e4ab0e4",
+      "DisplayName": "GestorClientes",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,30 @@
+C:\Users\Compaq\Desktop\C# studies\Classes e Estruturas\GestorClientes\GestorClientes\bin\Debug\net6.0\GestorClientes.exe
+C:\Users\Compaq\Desktop\C# studies\Classes e Estruturas\GestorClientes\GestorClientes\bin\Debug\net6.0\GestorClientes.deps.json
+C:\Users\Compaq\Desktop\C# studies\Classes e Estruturas\GestorClientes\GestorClientes\bin\Debug\net6.0\GestorClientes.runtimeconfig.json
+C:\Users\Compaq\Desktop\C# studies\Classes e Estruturas\GestorClientes\GestorClientes\bin\Debug\net6.0\GestorClientes.dll
+C:\Users\Compaq\Desktop\C# studies\Classes e Estruturas\GestorClientes\GestorClientes\bin\Debug\net6.0\GestorClientes.pdb
+C:\Users\Compaq\Desktop\C# studies\Classes e Estruturas\GestorClientes\GestorClientes\obj\Debug\net6.0\GestorClientes.csproj.AssemblyReference.cache
+C:\Users\Compaq\Desktop\C# studies\Classes e Estruturas\GestorClientes\GestorClientes\obj\Debug\net6.0\GestorClientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Compaq\Desktop\C# studies\Classes e Estruturas\GestorClientes\GestorClientes\obj\Debug\net6.0\GestorClientes.AssemblyInfoInputs.cache
+C:\Users\Compaq\Desktop\C# studies\Classes e Estruturas\GestorClientes\GestorClientes\obj\Debug\net6.0\GestorClientes.AssemblyInfo.cs
+C:\Users\Compaq\Desktop\C# studies\Classes e Estruturas\GestorClientes\GestorClientes\obj\Debug\net6.0\GestorClientes.csproj.CoreCompileInputs.cache
+C:\Users\Compaq\Desktop\C# studies\Classes e Estruturas\GestorClientes\GestorClientes\obj\Debug\net6.0\GestorClientes.dll
+C:\Users\Compaq\Desktop\C# studies\Classes e Estruturas\GestorClientes\GestorClientes\obj\Debug\net6.0\refint\GestorClientes.dll
+C:\Users\Compaq\Desktop\C# studies\Classes e Estruturas\GestorClientes\GestorClientes\obj\Debug\net6.0\GestorClientes.pdb
+C:\Users\Compaq\Desktop\C# studies\Classes e Estruturas\GestorClientes\GestorClientes\obj\Debug\net6.0\GestorClientes.genruntimeconfig.cache
+C:\Users\Compaq\Desktop\C# studies\Classes e Estruturas\GestorClientes\GestorClientes\obj\Debug\net6.0\ref\GestorClientes.dll
+C:\dev\GestorClientes\GestorClientes\bin\Debug\net6.0\GestorClientes.exe
+C:\dev\GestorClientes\GestorClientes\bin\Debug\net6.0\GestorClientes.deps.json
+C:\dev\GestorClientes\GestorClientes\bin\Debug\net6.0\GestorClientes.runtimeconfig.json
+C:\dev\GestorClientes\GestorClientes\bin\Debug\net6.0\GestorClientes.dll
+C:\dev\GestorClientes\GestorClientes\bin\Debug\net6.0\ref\GestorClientes.dll
+C:\dev\GestorClientes\GestorClientes\bin\Debug\net6.0\GestorClientes.pdb
+C:\dev\GestorClientes\GestorClientes\obj\Debug\net6.0\GestorClientes.csproj.AssemblyReference.cache
+C:\dev\GestorClientes\GestorClientes\obj\Debug\net6.0\GestorClientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\GestorClientes\GestorClientes\obj\Debug\net6.0\GestorClientes.AssemblyInfoInputs.cache
+C:\dev\GestorClientes\GestorClientes\obj\Debug\net6.0\GestorClientes.AssemblyInfo.cs
+C:\dev\GestorClientes\GestorClientes\obj\Debug\net6.0\GestorClientes.csproj.CoreCompileInputs.cache
+C:\dev\GestorClientes\GestorClientes\obj\Debug\net6.0\GestorClientes.dll
+C:\dev\GestorClientes\GestorClientes\obj\Debug\net6.0\ref\GestorClientes.dll
+C:\dev\GestorClientes\GestorClientes\obj\Debug\net6.0\GestorClientes.pdb
+C:\dev\GestorClientes\GestorClientes\obj\Debug\net6.0\GestorClientes.genruntimeconfig.cache
